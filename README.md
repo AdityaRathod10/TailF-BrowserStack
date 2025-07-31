@@ -20,9 +20,10 @@ A simple tool to view and tail log files in real-time from your browser.
    ```
 3. Run the backend:
    ```
-   python backend/main.py
+   python backend/main.py or uvicorn main:app --reload
    ```
 4. Open the frontend in your browser.
+http://localhost:8000/static/index.html
 
 ## Example Output
 
@@ -31,4 +32,4 @@ A simple tool to view and tail log files in real-time from your browser.
 
 ---
 
-Feel free to customize or extend as needed!
+
