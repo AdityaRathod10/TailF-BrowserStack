@@ -12,7 +12,7 @@ A simple tool to view and tail log files in real-time from your browser.
 
 1. Clone this repo:
    ```
-   git clone https://github.com/<your-username>/<repo-name>.git
+   git clone https://github.com/AdityaRathod10/TailF-BrowserStack.git
    ```
 2. Install dependencies:
    ```
